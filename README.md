@@ -1,6 +1,6 @@
 # GitHub/mZone--7segLED--demo1
 
-     ./mZone--7segLED--demo1
+    ./mZone--7segLED--demo1
      ├──  README.md
      ├──  README.md.old
      └──  Scripts/
