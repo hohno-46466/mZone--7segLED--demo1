@@ -1,6 +1,6 @@
 # GitHub/mZone--7segLED--demo1
 
-     ./mZone--7segLED--demo1
+    ./mZone--7segLED--demo1
      ├──  README.md
      ├──  README.md.old
      └──  Scripts/
@@ -8,7 +8,7 @@
          ├──  start-B1-7segLED-2.sh
          └──  start-B1-7segLED-3.sh
      
-     1 directory, 5 files (Tue Dec 20 21:47:33 JST 2022)
+     1 directory, 5 files (Thu Dec 22 04:09:34 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/mZone--7segLED--demo1
